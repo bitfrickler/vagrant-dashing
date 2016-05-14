@@ -1,6 +1,6 @@
-# dashing-trusty-vagrant
+# vagrant-dashing
 
-*Mostly blatantly stolen from https://github.com/lynnaloo/dashing-vagrant*
+*Mostly taken from https://github.com/lynnaloo/dashing-vagrant*
 
 ## Instructions
 Run ```vagrant up```.
